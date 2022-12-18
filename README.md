@@ -1,6 +1,6 @@
 # Repo to store course certificates
 
-#
+
 
 <div align="center">
 <img  height="300em" src="https://github.com/LeandroDukievicz/CERTIFICATES/blob/main/certificate-icon.gif" target="_blank">
