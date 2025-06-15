@@ -1,22 +1,50 @@
-# _*Certificados Pessoais*_
+# Certificados Pessoais
 
+## Olá, Bem-vindo(a) ao repo dos meus certificados !
 
-#### Bem-vindo ao repositório de Certificados Pessoais! Este repositório contém uma coleção dos meus certificados de cursos e treinamentos que realizei ao longo da minha jornada de aprendizado. Cada certificado reflete o compromisso contínuo com o desenvolvimento profissional e a aquisição de novas habilidades.
+#### Neste repositório, adicionarei todos os certificado dos cursos, bootcamps e workshops que venho realizando na minha jornada de aprendizado contínuo, é uma galeria pessoal das minhas pequenas conquistas e do meu empenho em continuar crescendo profissionalmente !
 
-#### _*Conteúdo do Repositório*_
-#### Este repositório está organizado da seguinte forma:
+### Cada Pasta terá um readme com a ordem cronológica !
 
-#### Certificados em formato PDF: Todos os certificados estão disponíveis em formato PDF na pasta certificates. Cada arquivo é nomeado de acordo com o curso ou treinamento concluído, seguido do nome da instituição que emitiu o certificado.
+### Por que este repositório existe? 🤔
+
+#### Bom, a idéia principal é centralizar tudo num único lugar, com fácil acesso, assim eu consigo:
+
+- organizar melhor, tudo padronizado
+- compartilhar tudo de forma mais transparente e acessível
+- Registrar minha evolução e progresso nos estudos
+- Mostrar habilidades desenvolvidas ao longo do processo
+
+### Organização 📂 :
+
+#### Simples, separei por plataformas, bootcamps diversos adicionei em uma única pasta pra facilitar.
+
+### Fique a Vontade pra dar um confere por aqui ! 👀👀👀
+
+#### fique a vontade pra conferir, ficarei disponível pra esclarecer qualquer dúvida, cada um destes representa um passo rumo ao meu objetivo !
+
+## Vamos trocar uma idéia? 🤝
+
+#### Se vc quiser trocar uma idéia, tem um feedback pra me dar ou quer se conectar comigo, bater um papo sobre tecnologia ou apenas um papo sobre aprendizado, estarei por ai, gosto de compartilhar experiências e tbm curto aprender com outras pessoas.
+
+### Você pode me encontrar em:
+
+[linkedin](https://www.linkedin.com/in/leandrodukievicz/)<br>
+[Gmail](mailto:leandrodukievicz1718@gmail.com)
+<br>
+[E-mail](mailto:ldukie@icloud.com)
+<br>
+[Fone/Whats](https://api.whatsapp.com/send/?phone=5544991293234&text=Ol%C3%A1%2C+tudo+bem+%3F&type=phone_number&app_absent=0)
 
 #
 
 <div align="center">
 <img  height="300em" src="https://github.com/LeandroDukievicz/CERTIFICATES/blob/main/certificate-icon.gif" target="_blank">
-</div>  
+
+</div>
 
 #
 
   <div align="center">
 <a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="200em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gif%20btn%20git.gif" target="_blank">
-</div>     
-
+</div>
