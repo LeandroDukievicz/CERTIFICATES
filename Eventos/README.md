@@ -1,27 +1,22 @@
-# 📜 Certificados Diversos -
+# 🎤 Eventos, Workshops e Imersões
 
-## 🗓️ Linha do Tempo de Aprendizados
-
-### ✅ 19/05/2025 – Bootcamp Grupo Boticário - Programa Desenvolve 💼
-
-- **Tema:** Desenvolvimento de habilidades técnicas e comportamentais
-- **Descrição:** Um bootcamp promovido pelo Grupo Boticário, com foco em desenvolvimento web, soft skills, lógica de programação e mercado de tecnologia.
-- **Destaque:** Networking com profissionais da indústria e projetos práticos.
+Porque nem tudo se aprende com slides e provas... Aqui estão os eventos, workshops e imersões que marcam minha trajetória como desenvolvedor e profissional de tecnologia.
 
 ---
 
-### ✅ 02/06/2025 – Método Perfil Glorioso LinkedIn 🚀
+## 🗓️ Linha do Tempo de Participações
 
-- **Tema:** Personal Branding e Otimização de Perfil
-- **Descrição:** Curso focado em como tornar o perfil no LinkedIn mais atrativo para recrutadores, com foco em storytelling profissional e SEO de perfil.
-- **Resultado:** Melhoria da minha visibilidade no LinkedIn e aumento de conexões profissionais qualificadas.
+### 📍 28/05/2025 – The Developer's Life Weekend 🌱
 
----
+- **Evento:** The Developer's Life Weekend
+- **Descrição:** Um final de semana inteiro de conteúdo técnico e comportamental para desenvolvedores.
+- **Temas Abordados:**
 
-### ✅ 03/06/2025 – Curso de Extensão Universitária: O Mercado de Trabalho e a Carreira de TI 🎓
+  - Carreira dev no mundo real
+  - Soft skills para programadores
+  - Productividade, rotina e mentalidade de crescimento
+  - Tecnologias emergentes e tendências do mercado
 
-- **Tema:** Carreira e Tendências no Mercado de TI
-- **Descrição:** Extensão oferecida por instituição de ensino superior sobre o panorama atual da tecnologia da informação, empregabilidade, e as competências mais buscadas.
-- **Insight:** Reforçou minha visão estratégica de carreira e tendências de mercado.
+- **Duração:** Intensivo de 2 dias
 
 ---
