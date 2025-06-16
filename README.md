@@ -2,6 +2,10 @@
 
 ## Olá, Bem-vindo(a) ao repo dos meus certificados !
 
+### 🚀 Por que manter esse repositório?
+
+#### Porque conhecimento só tem valor quando está organizado, disponível e visível. Este repositório funciona como meu "histórico público de aprendizagem" — é daqui que tiro credibilidade nas skills que coloco no LinkedIn, portfólio ou nas entrevistas.
+
 #### Neste repositório, adicionarei todos os certificado dos cursos, bootcamps e workshops que venho realizando na minha jornada de aprendizado contínuo, é uma galeria pessoal das minhas pequenas conquistas e do meu empenho em continuar crescendo profissionalmente !
 
 ### Cada Pasta terá um readme com a ordem cronológica !
