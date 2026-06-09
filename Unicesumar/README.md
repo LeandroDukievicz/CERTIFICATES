@@ -45,3 +45,9 @@ Projeto Final / Portfólio: Dev Web Fullstack
 ### 📍 2025 – Encerramento
 
 Certificado de Conclusão Final do Curso
+
+### 📍 2026
+
+Pós-Graduação em Negócios Digitais — 1
+
+Pós-Graduação em Negócios Digitais — 2

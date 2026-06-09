@@ -26,13 +26,13 @@
 | Plataforma / Instituição | Qtd. de Certificados |
 |---|---|
 | 🎓 Unicesumar — Tecnólogo em Sistemas para Internet | 14 |
-| 🎓 Unicesumar — Pós-Graduação em Negócios Digitais | 7 |
+| 🎓 Unicesumar — Pós-Graduação em Negócios Digitais | 9 |
 | 🐍 Unicesumar — Pós-Graduação em Python | 10 |
 | 💡 Digital Innovation One (DIO) | 44 |
 | 🎬 Udemy | 9 |
 | 🏅 Certificados Diversos | 5 |
 | 🎤 Eventos | 1 |
-| **Total** | **90** |
+| **Total** | **92** |
 
 ---
 
@@ -75,6 +75,8 @@ Pós-Graduação focada em estratégias digitais, empreendedorismo, branding e i
 | Gestão de Projetos Inovadores | [Ver](Unicesumar-Negocios-Digitais/GESTÃO%20DE%20PROJETOS%20INOVADORES.pdf) |
 | Novos Modelos de Negócios | [Ver](Unicesumar-Negocios-Digitais/Novos%20modelos%20de%20Negócios.pdf) |
 | Startups | [Ver](Unicesumar-Negocios-Digitais/Startups.pdf) |
+| Pós-Graduação em Negócios Digitais — 1 | [Ver](Unicesumar/Pos%20graduacao%20negocios%20digitais%201.jpg) |
+| Pós-Graduação em Negócios Digitais — 2 | [Ver](Unicesumar/Pos%20graduacao%20negocios%20digitais%202.jpg) |
 
 ---
 
